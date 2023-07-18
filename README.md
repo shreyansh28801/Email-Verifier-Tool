@@ -11,7 +11,8 @@ The Email Verifier Tool provides the following functionalities:
       Check if the domain has MX (Mail Exchange) records.
    - ### SPF Record:
       Check if the domain has an SPF (Sender Policy Framework) record.
-   - ### DMARC Record: Check if the domain has a DMARC (Domain-based Message Authentication, Reporting, and Conformance) record.
+   - ### DMARC Record:
+     Check if the domain has a DMARC (Domain-based Message Authentication, Reporting, and Conformance) record.
 
 ## Getting Started
 To get started with the Email Verifier Tool, follow the instructions below:
